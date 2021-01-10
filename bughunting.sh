@@ -68,5 +68,9 @@ echo""
 git clone https://github.com/g0tmi1k/msfpc.git
 ***********************************************
 
+echo""
+git clone https://github.com/Screetsec/TheFatRat.git
+*************************************************
+
 
 
