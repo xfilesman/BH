@@ -40,35 +40,35 @@ git clone https://github.com/M4sc3r4n0/Evil-Droid.git
 ****************************************************
 
 
-echo""
+echo ""
 git clone https://github.com/smicallef/spiderfoot.git
 ****************************************************
 
-echo""
+echo ""
 git clone https://github.com/Und3rf10w/kali-anonsurf.git
 *******************************************************
 
-echo""
+echo ""
 git clone https://github.com/farid007/HashExploit.git
 *****************************************************
 
-echo""
+echo ""
 git clone https://github.com/BishopFox/spoofcheck.git
 *****************************************************
 
-echo""
+echo ""
 git clone https://github.com/mikechabot/smtp-email-spoofer-py.git
 ****************************************************************
 
-echo""
+echo ""
 git clone https://github.com/r00t-3xp10it/venom.git
 ****************************************************
 
-echo""
+echo ""
 git clone https://github.com/g0tmi1k/msfpc.git
 ***********************************************
 
-echo""
+echo ""
 git clone https://github.com/Screetsec/TheFatRat.git
 *************************************************
 
